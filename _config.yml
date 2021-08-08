@@ -1,16 +1,16 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
-baseurl: "/remple/"
+title: Md Tamjid Hossain
+description: Computer Science Graduate
+baseurl: "/resume/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
-medium: "https://tahanima.medium.com/"
+email: "tamzidhs@gmail.com"
+linkedin: "http://linkedin.com/in/tamjidhossain"
+github: "https://github.com/mtamjidhossain"
+website: "http://mtamjidhossain.github.io/"
+kaggle: "https://www.kaggle.com/mdtamjidhossain"
 
 markdown: kramdown
 theme: minima
